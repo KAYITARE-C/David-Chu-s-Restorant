@@ -11,7 +11,7 @@ body{
     background:#f6b319;
 }
 #logo-img{
-    background:url("/images/restaurant-logo_large.png") no-repeat;
+    background:url("../images/restaurant-logo_large.png") no-repeat;
     width:150px;
     height:150px;
     margin:10px 15px 10px 0;
@@ -95,11 +95,11 @@ position: relative;
     box-shadow:0px 1px 5px 1px #cccc;
 }
 #menu-tiles{
-    background: url("/images/menu-tile.jpg") no-repeat;
+    background: url("../images/menu-tile.jpg") no-repeat;
     background-position: center;
 }
 #special-tiles{
-    background:url("/images/specials-tile.jpg")no-repeat;
+    background:url("../images/specials-tile.jpg")no-repeat;
     background-position: center;
 }
 #menu-tiles span, #special-tiles span,#map-tiles span{
@@ -191,7 +191,7 @@ position: relative;
 
 @media (min-width:1200px){
     .container .jumbotron{
-        background:url("/images/jumbotron_1200.jpg") no-repeat;
+        background:url("../images/jumbotron_1200.jpg") no-repeat;
         height:675px;
    }
 
@@ -199,14 +199,14 @@ position: relative;
 }
 @media (min-width:992px) and (max-width:1199px){
     #logo-img{
-        background:url("/images/restaurant-logo_medium.png")no-repeat;
+        background:url("../images/restaurant-logo_medium.png")no-repeat;
         height:100px;
         width:100px;
         margin:5px 5px 5px 0;
     }
  
     .container .jumbotron{
-        background:url("/images/jumbotron_992.jpg") no-repeat;
+        background:url("../images/jumbotron_992.jpg") no-repeat;
         height:558px;
    }
 
@@ -244,7 +244,7 @@ position: relative;
 
 @media (min-width:768px) and (max-width:991px){
     .container .jumbotron{
-        background:url("/images/jumbotron_768.jpg") no-repeat;
+        background:url("../images/jumbotron_768.jpg") no-repeat;
         height:432px;
    }
 
