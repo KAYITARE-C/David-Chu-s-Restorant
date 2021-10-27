@@ -11,11 +11,9 @@ body{
     background:#f6b319;
 }
 #logo-img{
-<<<<<<< HEAD:bootstrap-3.3.7-dist/css/index.css
+
     background:url('../images/restaurant-logo_large.png') no-repeat;
-=======
-    background:url("../images/restaurant-logo_large.png") no-repeat;
->>>>>>> origin/main:css/index.css
+
     width:150px;
     height:150px;
     margin:10px 15px 10px 0;
